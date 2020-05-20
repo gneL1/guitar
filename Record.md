@@ -7,3 +7,7 @@
 ***
 
 ![图片示例](https://github.com/gneL1/guitar/blob/master/guitar_02.png)
+
+***
+
+![图片示例](https://github.com/gneL1/guitar/blob/master/guitar_03.png)
